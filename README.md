@@ -54,6 +54,7 @@ Salifort Motors has experienced high employee turnover, leading to increased hir
 ---
 
 ## Recommendations
+
 - Cap the number of projects per employee to prevent overload  
 - Investigate dissatisfaction among 4-year employees — consider promotions or new opportunities  
 - Reward employees fairly for overtime or clarify pay and workload policies  
@@ -63,6 +64,7 @@ Salifort Motors has experienced high employee turnover, leading to increased hir
 ---
 
 ## Tools & Technologies
+
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 - **Jupyter Notebook**: Data cleaning, EDA, and model development  
 - **Tableau**: Data visualization and dashboard creation  
@@ -71,6 +73,7 @@ Salifort Motors has experienced high employee turnover, leading to increased hir
 ---
 
 ## Results
+
 - **Best Model:** Random Forest Classifier  
 - **Model Accuracy:** ~0.98 (varies by run)  
 - **Most Influential Features:** Satisfaction lev
